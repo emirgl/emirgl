@@ -6,5 +6,5 @@
 
 - 🌱 I’m currently learning React
 <img src="https://img.icons8.com/dotty/80/000000/react.png"/>
--  📫 How to reach me mailto:emirglcemal@gmail.com
+
 
